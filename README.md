@@ -7,11 +7,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://warpcast.com/mativusgf">
+    <img src="https://img.shields.io/badge/Warpcast-purple?style=for-the-badge&logo=farcaster&logoColor=white" alt="Warpcast Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/night_crystal">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:twit6kript@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
@@ -29,7 +32,10 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🤖 Working on AI-powered applications using Langchain and exploring new AI technologies.
 - 🌱 Constantly learning and adapting to new technologies in the rapidly evolving tech landscape.
 - ⚡ In my free time, I contribute to open-source projects and experiment with new coding concepts.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ivan-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: 
+  [![Warpcast Badge](https://img.shields.io/badge/-Warpcast-purple?style=flat&logo=farcaster&logoColor=white)](https://warpcast.com/mativusgf)
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/night_crystal)
+  [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:twit6kript@gmail.com)
 
 ---
 
@@ -42,16 +48,16 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/.github/logo.svg" title="Langchain" alt="Langchain" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Azure/azure-functions-python-worker/dev/docs/Azure.Functions.svg" title="Langchain" alt="Langchain" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mativusgf&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mativusgf&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -63,6 +69,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### ✍️ Latest Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 💡 Current Interests :
+
+- Exploring advanced applications of Langchain in AI development
+- Optimizing blockchain interactions for efficient airdrop farming
+- Investigating new trends in decentralized finance (DeFi) and Web3 technologies
